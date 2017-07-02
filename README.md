@@ -1,2 +1,3 @@
 # wikidev
-Multi purpose wiki to share tips &amp; tricks about dev
+Multi purpose [wiki](https://github.com/mikemaggire/wikidev/wiki) to share tips &amp; tricks about dev
+
